@@ -974,6 +974,11 @@ a {
     min-height: 44px;
 }
 
+.price-item__link-action {
+    background: #ff5b2e;
+    color: #fff;
+}
+
 .price-item__list {
     margin-top: 24px;
 }
